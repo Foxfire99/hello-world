@@ -14,4 +14,8 @@ then git add
 Change number 2
 then git commit, git push
 
+Change number 3
+then commit
+then push
+then add, commit and oush
 
