@@ -11,4 +11,7 @@ Last change! More ... and more ....
 Change number 1 
 then git add
 
+Change number 2
+then git commit, git push
+
 
