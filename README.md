@@ -7,3 +7,8 @@ even though I'm in a hurry.
 Hmm, another change to this file.
 
 Last change! More ... and more ....
+
+Change number 1 
+then git add
+
+
