@@ -2,4 +2,4 @@ A file is PUSHed to the repository if either:
 
 	(1) It is "git add <file>" after a change and then "git commit"
 		or
-	(2) It is "git commit <file>" after a change
+	(2) It is "git commit <file>" after a change, AFTER it is tracked (i.e. 	    after it has been ADDed once.
