@@ -1,2 +1,4 @@
 This is just to add another file to the repository.
+And now, another change w/o adding, to see if the file is automaticaly tracked ...
+
 
